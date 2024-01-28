@@ -1,7 +1,7 @@
 # gitDemo
 This is a Git Demo Practice
 <br>
-Practising Most Important And Common Commands
+Practising Most Important And Common Commands (if We Are Cloning from gitHub)
 <br>
 1. git clone /Https Link/ - to Clone a Git Repository <br>
 2. git status - to Check Status of a Local Repository <br>
